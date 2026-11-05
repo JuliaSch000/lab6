@@ -1,0 +1,14 @@
+C:\Users\s37673\lab6\zad7\bin\Debug\net10.0\zad7.exe
+C:\Users\s37673\lab6\zad7\bin\Debug\net10.0\zad7.deps.json
+C:\Users\s37673\lab6\zad7\bin\Debug\net10.0\zad7.runtimeconfig.json
+C:\Users\s37673\lab6\zad7\bin\Debug\net10.0\zad7.dll
+C:\Users\s37673\lab6\zad7\bin\Debug\net10.0\zad7.pdb
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.AssemblyInfoInputs.cache
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.AssemblyInfo.cs
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.csproj.CoreCompileInputs.cache
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.dll
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\refint\zad7.dll
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.pdb
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\zad7.genruntimeconfig.cache
+C:\Users\s37673\lab6\zad7\obj\Debug\net10.0\ref\zad7.dll

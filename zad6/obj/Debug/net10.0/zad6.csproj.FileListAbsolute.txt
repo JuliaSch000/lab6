@@ -1,0 +1,14 @@
+C:\Users\s37673\lab6\zad6\bin\Debug\net10.0\zad6.exe
+C:\Users\s37673\lab6\zad6\bin\Debug\net10.0\zad6.deps.json
+C:\Users\s37673\lab6\zad6\bin\Debug\net10.0\zad6.runtimeconfig.json
+C:\Users\s37673\lab6\zad6\bin\Debug\net10.0\zad6.dll
+C:\Users\s37673\lab6\zad6\bin\Debug\net10.0\zad6.pdb
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.AssemblyInfoInputs.cache
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.AssemblyInfo.cs
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.csproj.CoreCompileInputs.cache
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.dll
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\refint\zad6.dll
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.pdb
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\zad6.genruntimeconfig.cache
+C:\Users\s37673\lab6\zad6\obj\Debug\net10.0\ref\zad6.dll
